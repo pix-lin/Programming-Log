@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (1152.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  1152.cpp
+  1152.vcxproj -> C:\Users\josh4\GitHub\Programming-Log\Backjoon Test\x64\Debug\1152_Review.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

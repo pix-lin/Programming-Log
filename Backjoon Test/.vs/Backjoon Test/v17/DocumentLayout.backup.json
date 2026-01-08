@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josh4\\Desktop\\Backjoon Test\\",
+  "WorkspaceRootPath": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EE5A12A-8FF6-47D1-A5D8-77D7DE9182B3}|2562\\2562.vcxproj|C:\\Users\\josh4\\Desktop\\Backjoon Test\\2562\\2562.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0EE5A12A-8FF6-47D1-A5D8-77D7DE9182B3}|2562\\2562.vcxproj|solutionrelative:2562\\2562.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A4DCF224-0D75-40FA-A8AF-83862F81146D}|2577\\2577.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DCF224-0D75-40FA-A8AF-83862F81146D}|2577\\2577.vcxproj|solutionrelative:2577\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2562.cpp",
-              "DocumentMoniker": "C:\\Users\\josh4\\Desktop\\Backjoon Test\\2562\\2562.cpp",
-              "RelativeDocumentMoniker": "2562\\2562.cpp",
-              "ToolTip": "C:\\Users\\josh4\\Desktop\\Backjoon Test\\2562\\2562.cpp",
-              "RelativeToolTip": "2562\\2562.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB0AAAATAAAAAAAAAA==",
+              "Title": "2577.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp",
+              "RelativeDocumentMoniker": "2577\\2577.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp",
+              "RelativeToolTip": "2577\\2577.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-07T13:35:23.127Z",
+              "WhenOpened": "2026-01-08T14:24:43.265Z",
               "EditorCaption": ""
             }
           ]
