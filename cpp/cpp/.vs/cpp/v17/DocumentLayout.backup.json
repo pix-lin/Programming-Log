@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B94833-F64E-4417-8F41-592992820D09}|7.11 Dynamic Memory Allocation and new, delete\\7.11 Dynamic Memory Allocation and new, delete.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.11 Dynamic Memory Allocation and new, delete\\new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56B94833-F64E-4417-8F41-592992820D09}|7.11 Dynamic Memory Allocation and new, delete\\7.11 Dynamic Memory Allocation and new, delete.vcxproj|solutionrelative:7.11 Dynamic Memory Allocation and new, delete\\new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7BAFFE-DC2E-4A65-9B5A-3A5E858127F3}|6.10 Symbollic Constants by Pointers\\6.10 Symbollic Constants by Pointers.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\6.10 Symbollic Constants by Pointers\\description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A7BAFFE-DC2E-4A65-9B5A-3A5E858127F3}|6.10 Symbollic Constants by Pointers\\6.10 Symbollic Constants by Pointers.vcxproj|solutionrelative:6.10 Symbollic Constants by Pointers\\description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B376BC-1E06-4251-938B-4BB60C4ED9B6}|7.8 Pointer \u0026 Array\\7.8 Pointer \u0026 Array.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.8 Pointer \u0026 Array\\description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31B376BC-1E06-4251-938B-4BB60C4ED9B6}|7.8 Pointer \u0026 Array\\7.8 Pointer \u0026 Array.vcxproj|solutionrelative:7.8 Pointer \u0026 Array\\description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.11 Dynamic Memory Allocation and new, delete\\new.cpp",
+              "RelativeDocumentMoniker": "7.11 Dynamic Memory Allocation and new, delete\\new.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.11 Dynamic Memory Allocation and new, delete\\new.cpp",
+              "RelativeToolTip": "7.11 Dynamic Memory Allocation and new, delete\\new.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T01:49:12.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "description.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\6.10 Symbollic Constants by Pointers\\description.cpp",
+              "RelativeDocumentMoniker": "6.10 Symbollic Constants by Pointers\\description.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\6.10 Symbollic Constants by Pointers\\description.cpp",
+              "RelativeToolTip": "6.10 Symbollic Constants by Pointers\\description.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T01:28:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "description.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.8 Pointer \u0026 Array\\description.cpp",
+              "RelativeDocumentMoniker": "7.8 Pointer \u0026 Array\\description.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.8 Pointer \u0026 Array\\description.cpp",
+              "RelativeToolTip": "7.8 Pointer \u0026 Array\\description.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-12T23:20:34.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

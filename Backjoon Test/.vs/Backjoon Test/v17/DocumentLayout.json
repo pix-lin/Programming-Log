@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4DCF224-0D75-40FA-A8AF-83862F81146D}|2577\\2577.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4DCF224-0D75-40FA-A8AF-83862F81146D}|2577\\2577.vcxproj|solutionrelative:2577\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{594A24DA-B961-4616-8C4F-99210AE1D414}|2920\\2920.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2920\\2920.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{594A24DA-B961-4616-8C4F-99210AE1D414}|2920\\2920.vcxproj|solutionrelative:2920\\2920.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2577.cpp",
-              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp",
-              "RelativeDocumentMoniker": "2577\\2577.cpp",
-              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp",
-              "RelativeToolTip": "2577\\2577.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAfAAAAAAAAAA==",
+              "Title": "2920.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2920\\2920.cpp",
+              "RelativeDocumentMoniker": "2920\\2920.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2920\\2920.cpp",
+              "RelativeToolTip": "2920\\2920.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T14:24:43.265Z",
+              "WhenOpened": "2026-01-12T22:11:54.177Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,6 @@
+﻿  description.cpp
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\3.4 sizeof, comma operator, conditional operator\description.cpp(25,6): error C2371: 'a': redefinition; different basic types
+      C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\3.4 sizeof, comma operator, conditional operator\description.cpp(9,8):
+      see declaration of 'a'
+  
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\3.4 sizeof, comma operator, conditional operator\description.cpp(26,6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data

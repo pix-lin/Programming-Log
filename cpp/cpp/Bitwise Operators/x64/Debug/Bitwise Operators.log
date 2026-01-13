@@ -1,0 +1,6 @@
+﻿  description.cpp
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\Bitwise Operators\description.cpp(44,5): warning C4552: '<<': result of expression not used
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\Bitwise Operators\description.cpp(71,27): warning C4319: '~': zero extending 'unsigned int' to 'unsigned __int64' of greater size
+  Bitwise Operators.vcxproj -> C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\x64\Debug\3.8 Bitwise Operators.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

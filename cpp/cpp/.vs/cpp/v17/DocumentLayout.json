@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A355FE-67B1-4B2F-914D-BCF65CE6208B}|7.12 Dynamic Allocated Array\\7.12 Dynamic Allocated Array.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.12 Dynamic Allocated Array\\description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76A355FE-67B1-4B2F-914D-BCF65CE6208B}|7.12 Dynamic Allocated Array\\7.12 Dynamic Allocated Array.vcxproj|solutionrelative:7.12 Dynamic Allocated Array\\description.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B94833-F64E-4417-8F41-592992820D09}|7.11 Dynamic Memory Allocation and new, delete\\7.11 Dynamic Memory Allocation and new, delete.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.11 Dynamic Memory Allocation and new, delete\\new, delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56B94833-F64E-4417-8F41-592992820D09}|7.11 Dynamic Memory Allocation and new, delete\\7.11 Dynamic Memory Allocation and new, delete.vcxproj|solutionrelative:7.11 Dynamic Memory Allocation and new, delete\\new, delete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "description.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.12 Dynamic Allocated Array\\description.cpp",
+              "RelativeDocumentMoniker": "7.12 Dynamic Allocated Array\\description.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.12 Dynamic Allocated Array\\description.cpp",
+              "RelativeToolTip": "7.12 Dynamic Allocated Array\\description.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T07:46:54.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new, delete.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.11 Dynamic Memory Allocation and new, delete\\new, delete.cpp",
+              "RelativeDocumentMoniker": "7.11 Dynamic Memory Allocation and new, delete\\new, delete.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\cpp\\cpp\\7.11 Dynamic Memory Allocation and new, delete\\new, delete.cpp",
+              "RelativeToolTip": "7.11 Dynamic Memory Allocation and new, delete\\new, delete.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T07:17:17.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josh4\\GitHub\\Programming-Log\\csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{645AC44E-F76C-48D6-BE1B-A0D6D7D424E0}|Annotation\\Annotation.csproj|c:\\users\\josh4\\github\\programming-log\\csharp\\annotation\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645AC44E-F76C-48D6-BE1B-A0D6D7D424E0}|Annotation\\Annotation.csproj|solutionrelative:annotation\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634DC3B-F7AF-4C16-9113-8FEB2558A2DA}|Class\\Class.csproj|c:\\users\\josh4\\github\\programming-log\\csharp\\class\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634DC3B-F7AF-4C16-9113-8FEB2558A2DA}|Class\\Class.csproj|solutionrelative:class\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "description.cs",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\csharp\\Annotation\\description.cs",
+              "RelativeDocumentMoniker": "Annotation\\description.cs",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\csharp\\Annotation\\description.cs",
+              "RelativeToolTip": "Annotation\\description.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:26:16.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "description.cs",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\csharp\\Class\\description.cs",
+              "RelativeDocumentMoniker": "Class\\description.cs",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\csharp\\Class\\description.cs",
+              "RelativeToolTip": "Class\\description.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwGIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:20:19.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿  description.cpp
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\cpp structure\description.cpp(26,1): error C4700: uninitialized local variable 'x' used

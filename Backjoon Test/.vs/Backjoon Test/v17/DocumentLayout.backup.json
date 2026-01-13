@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF4CAB15-2062-463E-84B2-F1CC484AEEEE}|5568\\5568.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\5568\\5568.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF4CAB15-2062-463E-84B2-F1CC484AEEEE}|5568\\5568.vcxproj|solutionrelative:5568\\5568.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F99EF4-EAF1-443C-9915-AFA51F82B896}|2675\\2675.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2675\\2675.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F99EF4-EAF1-443C-9915-AFA51F82B896}|2675\\2675.vcxproj|solutionrelative:2675\\2675.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4DCF224-0D75-40FA-A8AF-83862F81146D}|2577\\2577.vcxproj|C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A4DCF224-0D75-40FA-A8AF-83862F81146D}|2577\\2577.vcxproj|solutionrelative:2577\\2577.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,15 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "5568.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\5568\\5568.cpp",
+              "RelativeDocumentMoniker": "5568\\5568.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\5568\\5568.cpp",
+              "RelativeToolTip": "5568\\5568.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-12T07:32:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2675.cpp",
+              "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2675\\2675.cpp",
+              "RelativeDocumentMoniker": "2675\\2675.cpp",
+              "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2675\\2675.cpp",
+              "RelativeToolTip": "2675\\2675.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T13:42:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "2577.cpp",
               "DocumentMoniker": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp",
               "RelativeDocumentMoniker": "2577\\2577.cpp",
               "ToolTip": "C:\\Users\\josh4\\GitHub\\Programming-Log\\Backjoon Test\\2577\\2577.cpp",
               "RelativeToolTip": "2577\\2577.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T14:24:43.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T14:24:43.265Z"
             }
           ]
         }

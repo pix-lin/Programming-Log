@@ -1,0 +1,6 @@
+﻿  description.cpp
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\1.1 type\description.cpp(6,9): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\1.1 type\description.cpp(6,11): warning C4309: 'initializing': truncation of constant value
+  1.1 type.vcxproj -> C:\Users\josh4\GitHub\Programming-Log\cpp\cpp\x64\Debug\3.1 type.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
